@@ -4,3 +4,4 @@ Esta carpeta contiene la **documentación transversal** del monorepo: guías de 
 
 - **Propósito principal**: tener un punto único para la documentación “global” del proyecto (no específica de una sola app/agente).
 - **Recomendación**: organiza la documentación por temas (arquitectura, despliegue, datos, seguridad, observabilidad, etc.) y mantén enlaces desde los READMEs de cada componente hacia estas guías.
+- Validación de reglas del agent: [`phase-3-validation.md`](./phase-3-validation.md).

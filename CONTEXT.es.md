@@ -1,5 +1,7 @@
 # Contexto de tu empresa
 
+> **Fuente de verdad:** usa [`CONTEXT.md`](./CONTEXT.md) (Nexova, Valencia y Miami). Este archivo es el placeholder de la plantilla y **no** describe la empresa del proyecto.
+
 **Sustituye este archivo** por el CONTEXT de la empresa que te hayan asignado:
 
 - **Brasaland** — `CONTEXT-brasaland-briefing.md` (cadena de restaurantes de comida a la parrilla, Colombia + Florida)
